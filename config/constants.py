@@ -1,8 +1,9 @@
 # constants
 
 ### GENERAL ###
-TITLE_SCREEN = "Title Screen"
+NAME_GAME = "Cometa"
 GAME_OVER_SCREEN = "Game Over Screen"
+FPS = 60
 
 ### DB CONFIGURATION ###
 IP_DB_SERVER = "localhost"
